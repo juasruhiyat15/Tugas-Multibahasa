@@ -1,3 +1,58 @@
 <resources>
     <string name="app_name">Juas</string>
+    // Layout
+    <string name="daftar_jenis_buah">Daftar Jenis Buah</string>
+    <string name="buah_segar_pedia">Buah Segar Pedia</string>
+    <string name="pilih_menu_buah_yang_disukai">(Pilih menu buah yang disukai)</string>
+    <string name="jenis_buah">Jenis Buah</string>
+    <string name="asal">Asal</string>
+    <string name="deskripsi_buah">Deskripsi buah</string>
+    // Profile
+    <string name="nama">Nama</string>
+    <string name="prodi">Prodi</string>
+    <string name="teknik_informatika_a">Teknik Informatika - A</string>
+    <string name="alamat">Alamat</string>
+    <string name="masbagik_selatan">Masbagik Selatan</string>
+    <string name="belajar_amp_membaca"><![CDATA[Belajar & Membaca]]></string>
+    // Jenis Trofis
+    <string name="Blimbing_nama">Blimbing</string>
+    <string name="Ilmiah_nama">Averrhoa carambola</string>
+    <string name="buah_blimbing">Belimbing termasuk satu jenis buah tropis yang sudah lama dikenal dan ditanam di Indonesia.</string>
+    <string name="nama_buah">Jambu</string>
+    <string name="nama_ilmiah">Psidium guajava</string>
+    <string name="deskripsi_Jambu">jambu biji (Psidium guajava L) mengandung berbagai senyawa metabolit sekunder antara lain tanin, minyak atsiri, flavonoid, dan saponin.</string>
+    <string name="nama_jeruk">jeruk Nipis</string>
+    <string name="ilmiah_jeruk">Citrus × aurantiifolia</string>
+    <string name="deskripsi_jeruk">Jeruk nipis merupakan jenis tumbuhan yang masuk kedalam suku jeruk-jerukan, tersebar di Asia Dan Amerika Tengah dikenal juga sebagai jeruk pecel.</string>
+    <string name="nama_mangga">Mangga</string>
+    <string name="ilmiah_mangga">Mangifera indica</string>
+    <string name="deskripsi_mangga">Pohon mangga termasuk tumbuhan tingkat tinggi yang bentuk batangnya termasuk kumpulan arboreus, yaitu tumbuhan berkayu yang mempunyai tinggi batang lebih dari 5 m.</string>
+    <string name="nama_nanas">Nanas</string>
+    <string name="ilmiah_nanas">Ananas comosus</string>
+    <string name="deskripsi_nanas">Nanas adalah tumbuhan tropis dengan buah yang dapat dimakan dan tumbuhan yang paling penting secara ekonomi dalam famili Bromeliaceae.</string>
+    <string name="nama_pisang">Pisang</string>
+    <string name="ilmiah_nama">Musa</string>
+    <string name="deskripsi_pisang">Pisang adalah nama umum yang diberikan pada tumbuhan terna berukuran besar dengan daun memanjang dan besar yang tumbuh langsung dari bagian tangkai.</string>
+    // Subtropis
+    <string name="deskripsi_anggur">Buah anggur yang mempunyai nama latin Vitis Vinivera ini mengandung magnesium yang tinggi, terutama terkandung pada kulitnya.</string>
+    <string name="nama_anggur">Anggur</string>
+    <string name="ilmiah_anggur">Vitis</string>
+    <string name="nama_apel">Apel</string>
+    <string name="ilmiah_apel">Malus</string>
+    <string name="deskripsi_apel">Apel adalah jenis buah-buahan, atau buah yang dihasilkan dari pohon buah apel.</string>
+    <string name="nama_cery">Cery</string>
+    <string name="ilmiah_cery">Prunus subg. Cerasus</string>
+    <string name="deskripsi_cery">Ceri adalah subgenus tumbuhan dari Prunus, dengan ciri-ciri memiliki bunga corymbs kecil majemuk, dan memiliki buah yang halus dengan hanya alur lemah di satu sisi, atau tidak ada alur.</string>
+    <string name="nama_kiwi">Kiwi</string>
+    <string name="ilmiah_kiwi">Actinidia deliciosa</string>
+    <string name="deskripsi_kiwi">kiwi atau Gosberi China adalah nama yang diberikan kepada buah beri yang bisa dimakan dari beberapa jenis tanaman kayu merambat dalam genus Actinidia.</string>
+    <string name="nama_pir">Pir</string>
+    <string name="ilmiah_pir">Pyrus</string>
+    <string name="deskripsi_pir">Buah yang memiliki nama latin Pyrus communis merupakan tanaman buah dari genus Pyrus yang menghasilkan buah segar saat dimakan karena mengandung banyak air, dengan tekstur masir dan manis.</string>
+    <string name="nama_plum">Plum</string>
+    <string name="ilmiah_plum">Prunus domestica</string>
+    <string name="deskripsi_plum">Prem merupakan bagian dari genus Prunus, subgenus Prunus.</string>
+    <string name="Daftar_Buah">"DAFTAR BUAH JENIS "</string>
+
+
 </resources>

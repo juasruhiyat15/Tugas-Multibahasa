@@ -26,7 +26,7 @@ public class DaftarBuahActivity extends AppCompatActivity {
         Intent intent = getIntent();
         jenisBuah = intent.getStringExtra(MainActivity.JENIS_GALERI_KEY);
         TextView txJudul = findViewById(R.id.text_title_daftar);
-        txJudul.setText("DAFTAR BUAH JENIS "+jenisBuah.toUpperCase());
+        txJudul.setText(getString(R.string.Daftar_Buah)+jenisBuah.toUpperCase());
         buahs = DataProvider.getBuahsByTipe(this,jenisBuah);
         setupListView();
     }

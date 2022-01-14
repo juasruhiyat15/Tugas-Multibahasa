@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juas</string>
+    // Layout
+    <string name="daftar_jenis_buah">" List of Fruits"</string>
+    <string name="buah_segar_pedia">" Pedia Fresh Fruit"</string>
+    <string name="pilih_menu_buah_yang_disukai">" (Select the preferred fruit menu)"</string>
+    <string name="jenis_buah">" Fruit Type"</string>
+    <string name="asal">" Origin"</string>
+    <string name="deskripsi_buah">" fruit description"</string>
+    // Profile
+    <string name="nama">Name</string>
+    <string name="prodi">" Study Program"</string>
+    <string name="teknik_informatika_a">" Informatics Engineering - A"</string>
+    <string name="alamat">" Address"</string>
+    <string name="masbagik_selatan">" South Masbagik"</string>
+    <string name="belajar_amp_membaca">" <![CDATA[Study & Reading]]>"</string>
+    // Data Tropis
+    <string name="Blimbing_nama">Starfruit</string>
+    <string name="Ilmiah_nama">Averrhoa carambola</string>
+    <string name="buah_blimbing">" Starfruit is a type of tropical fruit that has long been known and grown in Indonesia."</string>
+    <string name="nama_buah">Guava</string>
+    <string name="nama_ilmiah">Psidium guajava</string>
+    <string name="deskripsi_Jambu">Guava (Psidium guajava L) contains various secondary metabolites, including tannins, essential oils, flavonoids, and saponins.</string>
+    <string name="nama_jeruk">" lime"</string>
+    <string name="ilmiah_jeruk">Citrus × aurantiifolia</string>
+    <string name="deskripsi_jeruk">" Lime is a type of plant that belongs to the citrus tribe, spread in Asia and Central America, also known as pecel oranges."</string>
+    <string name="nama_mangga">" Mango"</string>
+    <string name="ilmiah_mangga">Mangifera indica</string>
+    <string name="deskripsi_mangga">Mango trees are high-level plants whose trunk forms include an arboreus collection, which is a woody plant that has a trunk height of more than 5 m.</string>
+    <string name="nama_nanas">Pineapple</string>
+    <string name="ilmiah_nanas">Ananas comosus</string>
+    <string name="deskripsi_nanas">Pineapple is a tropical plant with edible fruit and the most economically important plant in the family Bromeliaceae.</string>
+    <string name="nama_pisang">" Banana"</string>
+    <string name="ilmiah_nama">Musa</string>
+    <string name="deskripsi_pisang">Banana is the general name given to large herbaceous plants with large, elongated leaves that grow directly from the stem.</string>
+    // Subtropis
+    <string name="nama_anggur">" Wine"</string>
+    <string name="ilmiah_anggur">Vitis</string>
+    <string name="deskripsi_anggur">" Grapes which have the Latin name Vitis Vinivera contain high magnesium, especially contained in the skin."</string>
+    <string name="nama_apel">" Apple"</string>
+    <string name="ilmiah_apel">Malus</string>
+    <string name="deskripsi_apel">" Apples are a type of fruit, or fruit produced from the apple tree."</string>
+    <string name="nama_cery">" Chery"</string>
+    <string name="ilmiah_cery">Prunus subg. Cerasus</string>
+    <string name="deskripsi_cery">Cherries are a plant subgenus of Prunus, characterized by having small, compound corymbs flowers, and having smooth fruit with only a weak groove on one side, or no furrow.</string>
+    <string name="nama_kiwi">" Kiwi"</string>
+    <string name="ilmiah_kiwi">Actinidia deliciosa</string>
+    <string name="deskripsi_kiwi">Kiwi or Chinese Gooseberry is the name given to the edible berries of several types of woody vines in the genus Actinidia.</string>
+    <string name="nama_pir">Pear</string>
+    <string name="ilmiah_pir">Pyrus</string>
+    <string name="deskripsi_pir">The fruit which has the Latin name Pyrus communis is a fruit plant from the genus Pyrus that produces fresh fruit when eaten because it contains a lot of water, with a gritty and sweet texture.</string>
+    <string name="nama_plum">Plums</string>
+    <string name="ilmiah_plum">Prunus domestica</string>
+    <string name="deskripsi_plum">Prunes are part of the genus Prunus, subgenus Prunus.</string>
+    <string name="Daftar_Buah">"LIST OF FRUIT TYPES "</string>
+
+
+</resources>

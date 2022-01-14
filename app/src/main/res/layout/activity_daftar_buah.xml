@@ -10,6 +10,7 @@
     android:padding="24dp"
     tools:context=".DaftarBuahActivity">
 
+
     <TextView
         android:id="@+id/text_title_daftar"
         android:layout_width="match_parent"
@@ -18,7 +19,7 @@
         android:gravity="center"
         android:textStyle="bold"
         android:textSize="17sp"
-        android:text="Daftar Jenis Buah"/>
+        android:text="@string/daftar_jenis_buah"/>
 
     <ListView
         android:id="@+id/listview_daftar_buah"

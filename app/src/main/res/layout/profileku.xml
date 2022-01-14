@@ -44,7 +44,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="5dp"
-                    android:text="Nama" />
+                    android:text="@string/nama" />
                 <TextView
                     android:layout_width="match_parent"
                     android:textStyle="bold"
@@ -84,12 +84,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="5dp"
-                    android:text="Prodi" />
+                    android:text="@string/prodi" />
                 <TextView
                     android:layout_width="match_parent"
                     android:textStyle="bold"
                     android:textColor="@android:color/black"
-                    android:text="Teknik Infotmatika - A"
+                    android:text="@string/teknik_informatika_a"
                     android:layout_height="wrap_content"/>
 
 
@@ -164,13 +164,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="5dp"
-                    android:text="Alamat" />
+                    android:text="@string/alamat" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:textStyle="bold"
                     android:textColor="@android:color/black"
-                    android:text="Masbagik Selatan"
+                    android:text="@string/masbagik_selatan"
                     android:layout_height="wrap_content"/>
 
 
@@ -210,7 +210,7 @@
                     android:layout_width="match_parent"
                     android:textStyle="bold"
                     android:textColor="@android:color/black"
-                    android:text="Belajar &amp; Membaca"
+                    android:text="@string/belajar_amp_membaca"
                     android:layout_height="wrap_content"/>
 
 

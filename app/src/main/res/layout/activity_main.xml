@@ -35,14 +35,10 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:fontFamily="@font/cabin_sketch"
-        android:text="Buah Segar Pedia"
-        android:textColor="@color/design_default_color_primary_dark"
+        android:text="@string/buah_segar_pedia"
+        android:textColor="@color/black"
         android:textSize="29sp"
         android:textStyle="bold" />
-
-
-
-
 
 
 
@@ -114,7 +110,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="6dp"
-        android:text="(Pilih menu buah yang disukai)"
+        android:text="@string/pilih_menu_buah_yang_disukai"
         android:textStyle="italic"
         android:layout_marginBottom="32dp"/>
 

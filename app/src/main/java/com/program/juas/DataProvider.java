@@ -14,35 +14,35 @@ public class DataProvider {
 
     private static List<Tropis> initDataTeropis(Context ctx) {
         List<Tropis> tropiss = new ArrayList<>();
-       tropiss.add(new Tropis("Blimbing", "Averrhoa carambola",
-                "Belimbing termasuk satu jenis buah tropis yang sudah lama dikenal dan ditanam di Indonesia.", R.drawable.tropis_blimbing1));
-        tropiss.add(new Tropis("Jambu", "Psidium guajava",
-                "jambu biji (Psidium guajava L) mengandung berbagai senyawa metabolit sekunder antara lain tanin, minyak atsiri, flavonoid, dan saponin.", R.drawable.tropis_jambu2));
-        tropiss.add(new Tropis("jeruk Nipis", "Citrus × aurantiifolia",
-                "Jeruk nipis merupakan jenis tumbuhan yang masuk kedalam suku jeruk-jerukan, tersebar di Asia Dan Amerika Tengah dikenal juga sebagai jeruk pecel.", R.drawable.tropis_jeruk3));
-        tropiss.add(new Tropis("Mangga", "Mangifera indica",
-                "Pohon mangga termasuk tumbuhan tingkat tinggi yang bentuk batangnya termasuk kumpulan arboreus, yaitu tumbuhan berkayu yang mempunyai tinggi batang lebih dari 5 m.", R.drawable.tropis_mangga4));
-        tropiss.add(new Tropis("Nanas", "Ananas comosus",
-                "Nanas adalah tumbuhan tropis dengan buah yang dapat dimakan dan tumbuhan yang paling penting secara ekonomi dalam famili Bromeliaceae.", R.drawable.tropis_nanas5));
-       tropiss.add(new Tropis("Pisang", "Musa",
-                "Pisang adalah nama umum yang diberikan pada tumbuhan terna berukuran besar dengan daun memanjang dan besar yang tumbuh langsung dari bagian tangkai.", R.drawable.tropis_pisang7));
+       tropiss.add(new Tropis(ctx.getString(R.string.Blimbing_nama), ctx.getString(R.string.Ilmiah_nama),
+                ctx.getString(R.string.buah_blimbing), R.drawable.tropis_blimbing1));
+        tropiss.add(new Tropis(ctx.getString(R.string.nama_buah), ctx.getString(R.string.nama_ilmiah),
+                ctx.getString(R.string.deskripsi_Jambu), R.drawable.tropis_jambu2));
+        tropiss.add(new Tropis(ctx.getString(R.string.nama_jeruk), ctx.getString(R.string.ilmiah_jeruk),
+                ctx.getString(R.string.deskripsi_jeruk), R.drawable.tropis_jeruk3));
+        tropiss.add(new Tropis(ctx.getString(R.string.nama_mangga), ctx.getString(R.string.ilmiah_mangga),
+                ctx.getString(R.string.deskripsi_mangga), R.drawable.tropis_mangga4));
+        tropiss.add(new Tropis(ctx.getString(R.string.nama_nanas), ctx.getString(R.string.ilmiah_nanas),
+                ctx.getString(R.string.deskripsi_nanas), R.drawable.tropis_nanas5));
+       tropiss.add(new Tropis(ctx.getString(R.string.nama_pisang), ctx.getString(R.string.ilmiah_nama),
+                ctx.getString(R.string.deskripsi_pisang), R.drawable.tropis_pisang7));
         return tropiss;
     }
 
     private static List<Subtropis> initDataSuptropis(Context ctx) {
         List<Subtropis> subtropiss = new ArrayList<>();
-        subtropiss.add(new Subtropis("Anggur", "Vitis",
-                "Buah anggur yang mempunyai nama latin Vitis Vinivera ini mengandung magnesium yang tinggi, terutama terkandung pada kulitnya.", R.drawable.subtropis_anggur1));
-        subtropiss.add(new Subtropis("Apel", "Malus",
-                "Apel adalah jenis buah-buahan, atau buah yang dihasilkan dari pohon buah apel.", R.drawable.subtropis_apel2));
-        subtropiss.add(new Subtropis("Chery", "Prunus subg. Cerasus",
-                "Ceri adalah subgenus tumbuhan dari Prunus, dengan ciri-ciri memiliki bunga corymbs kecil majemuk, dan memiliki buah yang halus dengan hanya alur lemah di satu sisi, atau tidak ada alur.", R.drawable.subtropis_chery3));
-        subtropiss.add(new Subtropis("Kiwi", "Actinidia deliciosa",
-                "kiwi atau Gosberi China adalah nama yang diberikan kepada buah beri yang bisa dimakan dari beberapa jenis tanaman kayu merambat dalam genus Actinidia.", R.drawable.subtropis_kiwi4));
-        subtropiss.add(new Subtropis("Pir", "Pyrus",
-                "Buah yang memiliki nama latin Pyrus communis merupakan tanaman buah dari genus Pyrus yang menghasilkan buah segar saat dimakan karena mengandung banyak air, dengan tekstur masir dan manis.", R.drawable.subtropis_pir5));
-        subtropiss.add(new Subtropis("Plum", "Prunus domestica",
-                "Prem merupakan bagian dari genus Prunus, subgenus Prunus.", R.drawable.subtropis_plum6));
+        subtropiss.add(new Subtropis(ctx.getString(R.string.nama_anggur), ctx.getString(R.string.ilmiah_anggur),
+                ctx.getString(R.string.deskripsi_anggur), R.drawable.subtropis_anggur1));
+        subtropiss.add(new Subtropis(ctx.getString(R.string.nama_apel), ctx.getString(R.string.ilmiah_apel),
+                ctx.getString(R.string.deskripsi_apel), R.drawable.subtropis_apel2));
+        subtropiss.add(new Subtropis(ctx.getString(R.string.nama_cery), ctx.getString(R.string.ilmiah_cery),
+                ctx.getString(R.string.deskripsi_cery), R.drawable.subtropis_chery3));
+        subtropiss.add(new Subtropis(ctx.getString(R.string.nama_kiwi), ctx.getString(R.string.ilmiah_kiwi),
+                ctx.getString(R.string.deskripsi_kiwi), R.drawable.subtropis_kiwi4));
+        subtropiss.add(new Subtropis(ctx.getString(R.string.nama_pir), ctx.getString(R.string.ilmiah_pir),
+                ctx.getString(R.string.deskripsi_pir), R.drawable.subtropis_pir5));
+        subtropiss.add(new Subtropis(ctx.getString(R.string.nama_plum), ctx.getString(R.string.ilmiah_plum),
+                ctx.getString(R.string.deskripsi_plum), R.drawable.subtropis_plum6));
         return subtropiss;
     }
 
