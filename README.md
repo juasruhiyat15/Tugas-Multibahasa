@@ -2,14 +2,7 @@
 
 
 
-![Indonesia](
+![english](https://user-images.githubusercontent.com/72286824/149438467-fdfc9de5-5a12-4b76-ad03-e992256a7864.gif)
+![indoesia](https://user-images.githubusercontent.com/72286824/149438517-5218e8ac-8cb9-49bb-8b2f-b0bfd8014435.gif)
 
-https://user-images.githubusercontent.com/72286824/149438152-c2e5e370-894c-47ae-b58c-5c8360d48d6f.mp4
-
-)
-![English](
-
-https://user-images.githubusercontent.com/72286824/149438182-ac369ec6-a307-4ec8-a13f-4137f61bb0de.mp4
-
-)
 
